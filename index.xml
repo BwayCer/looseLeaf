@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>📎 微本本</title>
+      <link>https://bwaycer.github.io/looseLeaf</link>
+      <description>最近的10篇筆記 on 📎 微本本</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>20240930 一天能吃幾顆蛋? 吃蛋要怕膽固醇嗎? by 蒼藍鴿的醫學天地 -- youtube.com</title>
+    <link>https://bwaycer.github.io/looseLeaf/bookmark/20240930-%E4%B8%80%E5%A4%A9%E8%83%BD%E5%90%83%E5%B9%BE%E9%A1%86%E8%9B%8B-%E5%90%83%E8%9B%8B%E8%A6%81%E6%80%95%E8%86%BD%E5%9B%BA%E9%86%87%E5%97%8E-by-%E8%92%BC%E8%97%8D%E9%B4%BF%E7%9A%84%E9%86%AB%E5%AD%B8%E5%A4%A9%E5%9C%B0----youtube.com</link>
+    <guid>https://bwaycer.github.io/looseLeaf/bookmark/20240930-%E4%B8%80%E5%A4%A9%E8%83%BD%E5%90%83%E5%B9%BE%E9%A1%86%E8%9B%8B-%E5%90%83%E8%9B%8B%E8%A6%81%E6%80%95%E8%86%BD%E5%9B%BA%E9%86%87%E5%97%8E-by-%E8%92%BC%E8%97%8D%E9%B4%BF%E7%9A%84%E9%86%AB%E5%AD%B8%E5%A4%A9%E5%9C%B0----youtube.com</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 04:10:11 GMT</pubDate>
+  </item><item>
+    <title>311006 任天堂博物館</title>
+    <link>https://bwaycer.github.io/looseLeaf/card/311006-%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%8D%9A%E7%89%A9%E9%A4%A8</link>
+    <guid>https://bwaycer.github.io/looseLeaf/card/311006-%E4%BB%BB%E5%A4%A9%E5%A0%82%E5%8D%9A%E7%89%A9%E9%A4%A8</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 03:52:25 GMT</pubDate>
+  </item><item>
+    <title>20230701 Setting up PostgreSQL and pgAdmin 4 with Docker by marvinjungre -- medium.com</title>
+    <link>https://bwaycer.github.io/looseLeaf/bookmark/noContent/20230701-Setting-up-PostgreSQL-and-pgAdmin-4-with-Docker-by-marvinjungre----medium.com</link>
+    <guid>https://bwaycer.github.io/looseLeaf/bookmark/noContent/20230701-Setting-up-PostgreSQL-and-pgAdmin-4-with-Docker-by-marvinjungre----medium.com</guid>
+    <description> 更新於 2024.06.20 2023.07.01 Setting up PostgreSQL and pgAdmin 4 with Docker by marvinjungre //medium.com .</description>
+    <pubDate>Wed, 09 Oct 2024 03:52:25 GMT</pubDate>
+  </item><item>
+    <title>310617 Docker 容器互連</title>
+    <link>https://bwaycer.github.io/looseLeaf/card/310617-Docker-%E5%AE%B9%E5%99%A8%E4%BA%92%E9%80%A3</link>
+    <guid>https://bwaycer.github.io/looseLeaf/card/310617-Docker-%E5%AE%B9%E5%99%A8%E4%BA%92%E9%80%A3</guid>
+    <description> 更新於 2024-06-17 2024.06.17 參考 容器互連 | 《Docker —— 從入門到實踐­》正體中文版 2023.09.14 //gitbook.io 運行 DB, Web 兩容器 docker run -d --name db .. postgres docker run -d --name app --link db:psql -t alpine sh 其中 --link 的值為 &lt;其他容器名稱&gt;:&lt;容器內別名&gt;。 docker ps # CONTAINER ID IMAGE COMMAND CREATED STATUS PORTS NAMES # 436001e2d375 postgres ..</description>
+    <pubDate>Wed, 09 Oct 2024 03:52:25 GMT</pubDate>
+  </item><item>
+    <title>310618 PostgreSQL &amp; pgadmin4 for Docker</title>
+    <link>https://bwaycer.github.io/looseLeaf/card/310618-PostgreSQL--and--pgadmin4-for-Docker</link>
+    <guid>https://bwaycer.github.io/looseLeaf/card/310618-PostgreSQL--and--pgadmin4-for-Docker</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 03:52:25 GMT</pubDate>
+  </item><item>
+    <title>310622 安裝小麥注音輸入法</title>
+    <link>https://bwaycer.github.io/looseLeaf/card/310622-%E5%AE%89%E8%A3%9D%E5%B0%8F%E9%BA%A5%E6%B3%A8%E9%9F%B3%E8%BC%B8%E5%85%A5%E6%B3%95</link>
+    <guid>https://bwaycer.github.io/looseLeaf/card/310622-%E5%AE%89%E8%A3%9D%E5%B0%8F%E9%BA%A5%E6%B3%A8%E9%9F%B3%E8%BC%B8%E5%85%A5%E6%B3%95</guid>
+    <description> 更新於 2024-06-22 安裝 fcitx5 sudo pacman -S fcitx5 fcitx5-configtool 建議安裝 fcitx5-configtool，不然調整設定就要從文本文件中修改 (譬如切換輸入法的快捷鍵)。 vi /etc/environment .. # fcitx GTK_IM_MODULE=fcitx QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx SDL_IM_MODULE=fcitx 該參數寫在 /etc/environment 或用 export 寫在 ~/.bashrc 都可以。 fcitx5 for Wayland 在 Wayland 上使用 Fcitx 5 # KDE Plasma //fcitx-im.org “System settings” &gt; 鍵盤 &gt; “Virtual keyboard” &gt; 選擇 Fcitx 5 Wayland 刪除 /etc/environment 文件中的 GTK_IM_MODULE=fcitx, QT_IM_MODULE=fcitx 設定項目。 此設定可以修正只有瀏覽器能輸入中文，而終端機、文字編輯器 … 等等都不行的問題。 安裝小麥輸入法 yay -S fcitx5-mcbopomofo-git 此次安裝完，系統有關 fcitx5 程式包如下： pacman -Qs fcitx5 # local/fcitx5 5.1.9-1 (fcitx5-im) # Next generation of fcitx # local/fcitx5-configtool 5.1.5-1 (fcitx5-im) # Configuration Tool for Fcitx5 # local/fcitx5-mcbopomofo-git 2.7.r11.916e7fd-1 # McBopomofo for fcitx5 # local/fcitx5-qt 5.1.6-3 (fcitx5-im) # Fcitx5 Qt Library (Qt5 &amp; Qt6 integrations) 到這裡你應該可以切換到小麥輸入法並輸入中文了！.</description>
+    <pubDate>Wed, 09 Oct 2024 03:52:25 GMT</pubDate>
+  </item><item>
+    <title>310627 文件命名規則</title>
+    <link>https://bwaycer.github.io/looseLeaf/card/310627-%E6%96%87%E4%BB%B6%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87</link>
+    <guid>https://bwaycer.github.io/looseLeaf/card/310627-%E6%96%87%E4%BB%B6%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 03:52:25 GMT</pubDate>
+  </item><item>
+    <title>310628 CSS 選擇器使用 1 個或 2 個冒號的抉擇</title>
+    <link>https://bwaycer.github.io/looseLeaf/card/310628-CSS-%E9%81%B8%E6%93%87%E5%99%A8%E4%BD%BF%E7%94%A8-1-%E5%80%8B%E6%88%96-2-%E5%80%8B%E5%86%92%E8%99%9F%E7%9A%84%E6%8A%89%E6%93%87</link>
+    <guid>https://bwaycer.github.io/looseLeaf/card/310628-CSS-%E9%81%B8%E6%93%87%E5%99%A8%E4%BD%BF%E7%94%A8-1-%E5%80%8B%E6%88%96-2-%E5%80%8B%E5%86%92%E8%99%9F%E7%9A%84%E6%8A%89%E6%93%87</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 03:52:25 GMT</pubDate>
+  </item><item>
+    <title>310704 交叉編譯和目標三元組</title>
+    <link>https://bwaycer.github.io/looseLeaf/card/310704-%E4%BA%A4%E5%8F%89%E7%B7%A8%E8%AD%AF%E5%92%8C%E7%9B%AE%E6%A8%99%E4%B8%89%E5%85%83%E7%B5%84</link>
+    <guid>https://bwaycer.github.io/looseLeaf/card/310704-%E4%BA%A4%E5%8F%89%E7%B7%A8%E8%AD%AF%E5%92%8C%E7%9B%AE%E6%A8%99%E4%B8%89%E5%85%83%E7%B5%84</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 03:52:25 GMT</pubDate>
+  </item><item>
+    <title>310723 安裝 Rust ESP32 環境</title>
+    <link>https://bwaycer.github.io/looseLeaf/card/310723-%E5%AE%89%E8%A3%9D-Rust-ESP32-%E7%92%B0%E5%A2%83</link>
+    <guid>https://bwaycer.github.io/looseLeaf/card/310723-%E5%AE%89%E8%A3%9D-Rust-ESP32-%E7%92%B0%E5%A2%83</guid>
+    <description>...</description>
+    <pubDate>Wed, 09 Oct 2024 03:52:25 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
